@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there 👋 I'm Minahil Rauf
 
-<!--
-**MinahilRauf435/MinahilRauf435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | C++ Developer 
 
-Here are some ideas to get you started:
+👩‍💻 About Me
+🎓 Cybersecurity Student
+💻 Passionate about Software Development
+🌱 Currently learning Python & SQL
+🔒 Interested in Cybersecurity
+🚀 Building projects using C++ and Oracle SQL
+📚 Always learning something new
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+🌍 VoyageCore
+C++ Travel & Tour Management System
+🛒 Online Shopping Management System
+Oracle SQL Database Project
+
+🛠 Tech Stack
+C++
+Python
+SQL
+Oracle SQL
+Git
+GitHub
+VS Code
+
+📊 GitHub Stats
+(automatic cards)
+
+📫 Connect with me
+GitHub: https://github.com/MinahilRauf435
+LinkedIn: linkedin.com/in/minahil-rauf-9760183a2
+Email: raufminahil435@gmail.com
